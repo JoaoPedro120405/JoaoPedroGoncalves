@@ -6,7 +6,7 @@ Endereço XXXXXX - Marília - SP
 
 ---
 
-Experiencia:
+# Experiencia:
 
-Aluno Unimar
+-Aluno Unimar
 
